@@ -1,9 +1,9 @@
 ### Hi there, I'm Rommel
 
 ## I'm a data analyst, father and husband
-- I'm currently working on my [website]
-- I'm currently upskilling my skills on [Data Analysis and Machine Learning] [ntuccourse]
-- I'm reskilling my [project management][onlinecourse] skill
+- I'm currently working on my [rommel-workspace][website]{:target="_blank"}
+- I'm currently upskilling my skills on [Data Analysis and Machine Learning][ntuccourse]{:target="_blank"}
+- I'm currently reskilling my [project management][onlinecourse] skill{:target="_blank"}
 
 ### Connect with me:
 
