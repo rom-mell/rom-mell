@@ -1,13 +1,9 @@
-### Hi there, I'm Rommel - aka [][website]
-I'm an IT specialist with passion for finding insights
-from all types of data using my programming skills to automate ETL,
-dashboards, reports and data storytelling.
+### Hi there, I'm Rommel
 
-## I'm a husband, father, data analyst and developer!
-- I'm currently working on my website [website]!
-- I'm currently upskilling my skills on Data Analysis and Machine Learning [ntuccourse]
-- I'm reskilling my project management skill [onlinecourse]
-- I'm looking for an opportunity to work for a company where I can use my full potential
+## I'm a data analyst, father and husbnd
+- I'm currently working on my [website]
+- I'm currently upskilling my skills on [Data Analysis and Machine Learning] [ntuccourse]
+- I'm reskilling my [project management][onlinecourse] skill
 
 ### Connect with me:
 
